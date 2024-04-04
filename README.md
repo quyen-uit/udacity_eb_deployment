@@ -1,0 +1,1 @@
+EB_URL: http://project-starter-code-dev.us-east-2.elasticbeanstalk.com/
